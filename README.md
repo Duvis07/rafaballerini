@@ -2,7 +2,7 @@
 #### Desarrollador web junior full-stack 💻♨️
 
 <div>
-  <a href="https://duvis07.github.io/my-portafolio/">
+  <a href="https://github.com/Duvis07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duvis07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duvis07&layout=compact&langs_count=16&theme=dracula"/>
 </div>
